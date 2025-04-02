@@ -27,6 +27,7 @@ npm install  # or yarn install
 
 ## Running the Project
 To start the development server, run:
+npm run dev
 
 
 
