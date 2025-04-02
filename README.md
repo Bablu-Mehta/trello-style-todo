@@ -23,3 +23,16 @@ cd repo
 
 # Install dependencies
 npm install  # or yarn install
+
+## Running the Project
+To start the development server, run:
+
+```sh
+npm run dev  # or yarn dev
+
+## Dependencies Used
+- **Next.js** - React framework for server-side rendering.
+- **React DnD** - Drag and drop functionality.
+- **Tailwind CSS** - Styling framework.
+- **Axios** - API fetching.
+
