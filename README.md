@@ -18,8 +18,8 @@ This project is a simple **Kanban Board** built using **Next.js** with **React D
 ### Steps to Install
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/repo
+cd repo
 
 # Install dependencies
 npm install  # or yarn install
