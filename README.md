@@ -15,6 +15,7 @@ This project is a simple **Kanban Board** built using **Next.js** with **React D
 - **Node.js** (>= 14)
 - **npm** or **yarn**
 
+
 ### Steps to Install
 ```sh
 # Clone the repository
@@ -27,12 +28,5 @@ npm install  # or yarn install
 ## Running the Project
 To start the development server, run:
 
-```sh
-npm run dev  # or yarn dev
 
-## Dependencies Used
-- **Next.js** - React framework for server-side rendering.
-- **React DnD** - Drag and drop functionality.
-- **Tailwind CSS** - Styling framework.
-- **Axios** - API fetching.
 
